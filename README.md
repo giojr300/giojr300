@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Giovanni</h1>
-<h3 align="center">I'm a System Devops Student and a huge enthusiatic of Data</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">A System Development student and a huge Data enthusiatic</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Power BI and Excel**
-
+- 🤝 Making Data Valuable
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanni-oliveira-47b589297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giovanni-oliveira-47b589297/" height="30" width="40" /></a>
